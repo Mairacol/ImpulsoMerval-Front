@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ImpulsoMerval-Front/static/css/main.ebc6d244.css",
-    "main.js": "/ImpulsoMerval-Front/static/js/main.22190b10.js",
+    "main.css": "/ImpulsoMerval-Front/static/css/main.41ac1885.css",
+    "main.js": "/ImpulsoMerval-Front/static/js/main.df7e2e42.js",
     "static/js/453.15ca1630.chunk.js": "/ImpulsoMerval-Front/static/js/453.15ca1630.chunk.js",
     "static/media/7579564-uhd_4096_2160_25fps.mp4": "/ImpulsoMerval-Front/static/media/7579564-uhd_4096_2160_25fps.acecdd33a97fda6ed981.mp4",
     "static/media/guia.jpg": "/ImpulsoMerval-Front/static/media/guia.a3206b15dc6023fc316b.jpg",
@@ -11,12 +11,12 @@
     "static/media/Criptomonedas-y-Blockchain.jpeg": "/ImpulsoMerval-Front/static/media/Criptomonedas-y-Blockchain.1508c89091655c0fbf5f.jpeg",
     "static/media/Analisis-tecnico.jpeg": "/ImpulsoMerval-Front/static/media/Analisis-tecnico.e670e0b4c6fcd39122f8.jpeg",
     "index.html": "/ImpulsoMerval-Front/index.html",
-    "main.ebc6d244.css.map": "/ImpulsoMerval-Front/static/css/main.ebc6d244.css.map",
-    "main.22190b10.js.map": "/ImpulsoMerval-Front/static/js/main.22190b10.js.map",
+    "main.41ac1885.css.map": "/ImpulsoMerval-Front/static/css/main.41ac1885.css.map",
+    "main.df7e2e42.js.map": "/ImpulsoMerval-Front/static/js/main.df7e2e42.js.map",
     "453.15ca1630.chunk.js.map": "/ImpulsoMerval-Front/static/js/453.15ca1630.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebc6d244.css",
-    "static/js/main.22190b10.js"
+    "static/css/main.41ac1885.css",
+    "static/js/main.df7e2e42.js"
   ]
 }
