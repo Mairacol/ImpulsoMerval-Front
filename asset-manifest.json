@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ImpulsoMerval-Front/static/css/main.47f76b2d.css",
-    "main.js": "/ImpulsoMerval-Front/static/js/main.0ce32969.js",
+    "main.js": "/ImpulsoMerval-Front/static/js/main.af2d8782.js",
     "static/js/453.15ca1630.chunk.js": "/ImpulsoMerval-Front/static/js/453.15ca1630.chunk.js",
     "static/media/7579564-uhd_4096_2160_25fps.mp4": "/ImpulsoMerval-Front/static/media/7579564-uhd_4096_2160_25fps.acecdd33a97fda6ed981.mp4",
     "static/media/guia.jpg": "/ImpulsoMerval-Front/static/media/guia.a3206b15dc6023fc316b.jpg",
@@ -12,11 +12,11 @@
     "static/media/Analisis-tecnico.jpeg": "/ImpulsoMerval-Front/static/media/Analisis-tecnico.e670e0b4c6fcd39122f8.jpeg",
     "index.html": "/ImpulsoMerval-Front/index.html",
     "main.47f76b2d.css.map": "/ImpulsoMerval-Front/static/css/main.47f76b2d.css.map",
-    "main.0ce32969.js.map": "/ImpulsoMerval-Front/static/js/main.0ce32969.js.map",
+    "main.af2d8782.js.map": "/ImpulsoMerval-Front/static/js/main.af2d8782.js.map",
     "453.15ca1630.chunk.js.map": "/ImpulsoMerval-Front/static/js/453.15ca1630.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47f76b2d.css",
-    "static/js/main.0ce32969.js"
+    "static/js/main.af2d8782.js"
   ]
 }
